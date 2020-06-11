@@ -192,6 +192,8 @@ p {
     color: black;
     text-transform: capitalize;
     font-size: 14px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 300;
 }
 
 .footer-part ul li a:hover {
